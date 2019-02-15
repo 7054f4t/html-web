@@ -1,0 +1,24 @@
+body {
+    background-color: cadetblue;
+    color: white;
+}
+
+.jumbotron {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0ohaz38ItdShYTC9UBbt2dXMU6mUh2qbCyueGZNRkJc4aUvJ);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    background: #888;
+    color: aliceblue;
+}
+
+.menu-lama {
+    margin-top: 100px
+}
+
+.img-heading {
+    margin-top: 100px;
+}
+
